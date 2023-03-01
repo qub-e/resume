@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: aliceblue;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
